@@ -9,6 +9,8 @@ The smart contract allows for content submission, retrieval, and secure manageme
 ## Contract Address
 **Contract Address**
 0xb38e6f5b351e2e2308b70e45726400ea46705d2a
+![image](https://github.com/user-attachments/assets/75e5c9f2-d61c-4371-ae65-ce4b326f431d)
+
 
 ## Project Vision
 The vision of the AI-Powered Content Aggregator is to empower content creators by providing them a decentralized, transparent platform for submitting and managing content. This platform will serve as a foundation for future AI-powered content aggregation, recommendation, and categorization. 
